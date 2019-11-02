@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "sdkVersion": "32.0.0",
+    "name": "EPB UChile",
+    "icon": "./static/images/AppIcon.png",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.asimonv.epb"
+    },
+    "android": {
+      "package": "com.asimonv.epb"
+    }
+  }
+}
